@@ -3,7 +3,6 @@
 This VS project contains Innovator's server side template for creating/editing server side method.
 
 Referenced Files:
-
   using System;
   using System.IO;
   using System.Xml;
@@ -16,10 +15,8 @@ Referenced Files:
   using System.Web;
   using System.Web.SessionState;
   using System.Globalization;
-  
-  
+
   //*** referenced files: IOM.dll and InnovatorCore.dll
-  
   using Aras.IOM;
 
 Embedded Server Method:
