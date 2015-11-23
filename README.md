@@ -23,6 +23,8 @@ Referenced Files:
 
 Embedded Server Method:
 
+This method reside in the MethodTemplate1.cs file:
+
   public Item methodCode()
   
   #endif
