@@ -24,7 +24,7 @@ Referenced Files:
 
 Embedded Server Method:
 
-This method reside in the MethodTemplate1.cs file:
+This method resides in the MethodTemplate1.cs file:
 
   public Item methodCode()
   
