@@ -1,6 +1,6 @@
 # InnovatorServerMethods
 
-This Visual Studio project contains Innovator's server side template for creating/editing Innovator's server side method. A C# class file is provided:
+This Visual Studio project contains Innovator's server side template for creating/editing Innovator's server side method. A C# class sample file is provided:
     MethodTemplate1.cs.
 
 Referenced Files:
