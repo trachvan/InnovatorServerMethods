@@ -1,23 +1,26 @@
 # InnovatorServerMethods
+
+This VS project contains Innovator's server side template for creating/editing server side method.
+
 Referenced Files:
 
-using System;
-using System.IO;
-using System.Xml;
-using System.Text;
-using System.Collections;
-using System.Collections.Generic;
-using System.Data;
-using System.Linq;
-using System.Net;
-using System.Web;
-using System.Web.SessionState;
-using System.Globalization;
-
-
-//*** referenced files: IOM.dll and InnovatorCore.dll
-
-using Aras.IOM;
+  using System;
+  using System.IO;
+  using System.Xml;
+  using System.Text;
+  using System.Collections;
+  using System.Collections.Generic;
+  using System.Data;
+  using System.Linq;
+  using System.Net;
+  using System.Web;
+  using System.Web.SessionState;
+  using System.Globalization;
+  
+  
+  //*** referenced files: IOM.dll and InnovatorCore.dll
+  
+  using Aras.IOM;
 
 Embedded Server Method:
 
