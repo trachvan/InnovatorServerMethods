@@ -13,6 +13,8 @@ using System.Net;
 using System.Web;
 using System.Web.SessionState;
 using System.Globalization;
+
+
 //*** referenced files: IOM.dll and InnovatorCore.dll
 using Aras.IOM;
 
@@ -23,6 +25,8 @@ Embedded Server Method:
         {
             Aras.Server.Core.CallContext CCO = ((Aras.Server.Core.IOMConnection)serverConnection).CCO;
             Aras.Server.Core.IContextState RequestState = CCO.RequestState;
+           
+           
             //*** Server side code starts here
             if (System.Diagnostics.Debugger.Launch())
             {
